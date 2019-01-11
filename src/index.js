@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Input from './Input';
+import Task from  './Task2/Task';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Input />, document.getElementById('root'));
+ReactDOM.render(<Task />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

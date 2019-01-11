@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-class Input extends Component{
+class Output extends Component{
     constructor(props){
         super(props)
        
@@ -10,4 +10,4 @@ class Input extends Component{
             )
     }
 }
-export default Input;
+export default Output;
